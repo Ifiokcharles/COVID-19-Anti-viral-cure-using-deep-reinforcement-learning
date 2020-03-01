@@ -1,0 +1,32 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     12  HN  UNK N   1     -32.208  13.021  53.228  1.00  0.00      C18H H  
+ATOM     14  HN  UNK N   1     -33.991  11.641  52.629  1.00  0.00      C18H H  
+ATOM     16  HN  UNK N   1     -36.170  12.137  53.288  1.00  0.00      C18H H  
+TER      17      UNK N   1 
+HETATM    1  C   UNK N   1     -34.607  16.060  56.946  0.00  0.00      C18H C  
+HETATM    2  C   UNK N   1     -34.677  17.315  57.580  0.00  0.00      C18H C  
+HETATM    3  C   UNK N   1     -34.976  18.468  56.861  0.00  0.00      C18H C  
+HETATM    4  C   UNK N   1     -35.190  18.404  55.485  0.00  0.00      C18H C  
+HETATM    5  C   UNK N   1     -35.500  19.660  54.723  0.00  0.00      C18H C  
+HETATM    6  C   UNK N   1     -35.096  17.173  54.826  0.00  0.00      C18H C  
+HETATM    7  C   UNK N   1     -34.820  15.978  55.528  0.00  0.00      C18H C  
+HETATM    8  C   UNK N   1     -34.634  14.700  54.742  0.00  0.00      C18H C  
+HETATM    9  C   UNK N   1     -33.348  14.362  54.292  0.00  0.00      C18H C  
+HETATM   10  N   UNK N   1     -33.151  13.257  53.538  0.00  0.00      C18H N  
+HETATM   11  N   UNK N   1     -34.167  12.472  53.194  0.00  0.00      C18H N  
+HETATM   13  N   UNK N   1     -35.410  12.754  53.576  0.00  0.00      C18H N  
+HETATM   15  C   UNK N   1     -35.694  13.840  54.343  0.00  0.00      C18H C  
+HETATM   17  N   UNK N   1     -37.041  14.034  54.744  0.00  0.00      C18H N  
+HETATM   18  H   UNK N   1     -37.786  14.034  54.031  0.00  0.00      C18H H  
+HETATM   19  H   UNK N   1     -37.322  14.091  55.730  0.00  0.00      C18H H  
+HETATM   20  C   UNK N   1     -34.342  14.880  57.817  0.00  0.00      C18H C  
+HETATM   21  O   UNK N   1     -33.228  14.385  57.848  0.00  0.00      C18H O  
+HETATM   22  O   UNK N   1     -35.395  14.303  58.459  0.00  0.00      C18H O  
+HETATM   23  C   UNK N   1     -36.414  14.723  59.271  0.00  0.00      C18H C  
+HETATM   24  C   UNK N   1     -36.273  14.363  60.623  0.00  0.00      C18H C  
+HETATM   25  C   UNK N   1     -37.237  14.690  61.575  0.00  0.00      C18H C  
+HETATM   26  C   UNK N   1     -38.370  15.400  61.199  0.00  0.00      C18H C  
+HETATM   27 Cl   UNK N   1     -37.026  14.198  63.245  0.00  0.00      C18HCl  
+HETATM   28  C   UNK N   1     -38.549  15.772  59.872  0.00  0.00      C18H C  
+HETATM   29  C   UNK N   1     -37.604  15.440  58.880  0.00  0.00      C18H C  
+HETATM   30  C   UNK N   1     -37.994  15.845  57.483  0.00  0.00      C18H C  
