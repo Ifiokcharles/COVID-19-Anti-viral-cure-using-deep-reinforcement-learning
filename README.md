@@ -21,7 +21,7 @@ Updated versions of;
 - future
 - editdistance
 - PyMOL - Used to bind the virus to the 10 good sample molecules
-- PyRX - Used to view structures of the virus e.g "Covid-19.pdb" or "Viewbindingaffinity.pse"
+- PyRX - Used to view structures of the virus e.g "Covid-19.pdb" or "Viewbindingaffinity.pse" files
 
 # Note
 To change the dataset to whatever dataset you choose;
